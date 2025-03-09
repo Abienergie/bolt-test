@@ -1,0 +1,17 @@
+# This is the Supabase configuration file for production
+
+[auth]
+# URL site et redirections
+site_url = "https://abienergie.github.io/Simulator"
+additional_redirect_urls = ["https://abienergie.github.io/Simulator/#/oauth/callback"]
+autoconfirm = true
+disable_signup = true
+
+[auth.email]
+enable_signup = false
+double_confirm_changes = false
+enable_confirmations = false
+
+[functions]
+[functions.enedis-auth]
+verify_jwt = false

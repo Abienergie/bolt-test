@@ -1,0 +1,36 @@
+{
+  "BETA_6.6": {
+    "date": "2024-02-08",
+    "description": "Amélioration des paramètres financiers et des primes :",
+    "features": [
+      "Ajout des paramètres financiers avancés",
+      "Gestion complète des primes et subventions",
+      "Support des installations professionnelles > 9 kWc",
+      "Amélioration de la gestion des prix d'installation",
+      "Optimisation de l'interface utilisateur",
+      "Meilleure gestion des dates de validité",
+      "Ajout des primes pour les grandes installations",
+      "Amélioration de la sécurité des formulaires",
+      "Correction de bugs mineurs",
+      "Optimisation des performances",
+      "Limitation de puissance à 9 kWc en triphasé",
+      "Affichage de la date de validité du tarif de revente"
+    ]
+  },
+  "BETA_6.5": {
+    "date": "2024-01-15",
+    "description": "Ajout des fonctionnalités de gestion des commerciaux :",
+    "features": [
+      "Nouvelle page Agence",
+      "Gestion des commissions",
+      "Barème de rémunération dynamique",
+      "Authentification des commerciaux",
+      "Tableau de bord commercial",
+      "Gestion des objectifs",
+      "Suivi des installations",
+      "Export des rapports",
+      "Amélioration de la sécurité",
+      "Optimisation des performances"
+    ]
+  }
+}
